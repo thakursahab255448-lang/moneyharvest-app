@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Money Harvest</string>
+    <string name="error_title">Unable to load page</string>
+    <string name="error_offline_message">No internet connection detected. Please check your Wi-Fi or mobile data and try again.</string>
+    <string name="error_generic_message">Something went wrong while loading Money Harvest. Please try again.</string>
+    <string name="action_retry">Try Again</string>
+    <string name="action_open_settings">Network Settings</string>
+</resources>

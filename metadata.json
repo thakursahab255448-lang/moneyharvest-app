@@ -1,0 +1,6 @@
+{
+  "name": "Money Harvest",
+  "description": "Money Harvest Android application wrapping https://moneyharvest.space-z.ai/#/",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
